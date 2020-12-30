@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently working on learning HTML/CSS and creating a site for my own personal use. As I learn, I plan on creating more pulic-facing content.
+I'm currently working on learning HTML/CSS and creating a site for my own personal use. As I learn, I plan on creating more public-facing content.
 
 <!--
 **Sophrosyne895/Sophrosyne895** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
